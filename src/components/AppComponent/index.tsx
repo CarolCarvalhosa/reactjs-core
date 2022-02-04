@@ -1,8 +1,8 @@
-import React from 'react';
-import { useStyles } from './styles';
-import logo from '../../assets/svgs/logo.svg';
-import { Box } from '@mui/material';
-import { keyframes } from '@mui/system';
+import React from "react";
+import { useStyles } from "./styles";
+import logo from "../../assets/svgs/logo.svg";
+import { Box } from "@mui/material";
+import { keyframes } from "@mui/system";
 
 const AppLogoSpin = keyframes`
   from {

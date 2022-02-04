@@ -1,6 +1,6 @@
-import React from 'react';
-import { Routes as RRDRoutes, Route } from 'react-router-dom';
-import Home from '../pages/Home';
+import React from "react";
+import { Routes as RRDRoutes, Route } from "react-router-dom";
+import Home from "../pages/Home";
 
 const Routes: React.FC = () => (
   <RRDRoutes>

@@ -1,6 +1,6 @@
-import React from 'react';
-import { useStyles } from './styles';
-import AppComponent from '../../components/AppComponent';
+import React from "react";
+import { useStyles } from "./styles";
+import AppComponent from "../../components/AppComponent";
 
 const Home: React.FC = () => {
   const classes = useStyles();
